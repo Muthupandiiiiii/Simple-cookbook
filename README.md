@@ -4,4 +4,7 @@ by selecting between vegetarian and non-vegetarian meals, exploring a rich colle
 recipes, and even generating new ones using the ingredients they already have at home.
 
 DOWNLOAD ALL THE THREE FILES TO SEE THE SAMPLE OF THE WEBSITE
+
+
+
 .HTML FILE IS THE FILE FOR THE SAMPLE WEBSITE 
